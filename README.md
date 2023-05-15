@@ -45,9 +45,9 @@ Improve your drone's performance by updating these parameters in `catello.py`:
 
 ### Drone Velocity
 - Reduced constant yaw velocity when no cat face is detected: `yv = 20`
-- Min/Max left, right velocity: `lr = int(max(-25, min(25, error_x * lr_scaling_factor)))`
-- Min/Max forward, backward velocity: `fb = int(max(-25, min(25, error_x * lr_scaling_factor)))`
-- Min/Max yaw velocity: `yv = max(-25, min(25, yv_raw))`
+- Min/Max left, right velocity: `lr = int(max(-20, min(20, error_x * lr_scaling_factor)))`
+- Min/Max forward, backward velocity: `fb = int(max(-20, min(20, error_x * lr_scaling_factor)))`
+- Min/Max yaw velocity: `yv = max(-20, min(20, yv_raw))`
 
 ## Customization
 Want to track something else? Change `class_id == 15` in `catello.py` to any of the YOLO4-tiny pretrained class_ids (you can find the list under `coco.names`).
