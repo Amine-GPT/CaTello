@@ -1,6 +1,6 @@
 # CaTello
 Meet CaTello - the cat-chasing drone designed to stimulate and engage your cats.
-This project marries Tello Ryze drone and YOLOv4-tiny technology to create an  interactive pet companion.
+This project marries DJI's Tello Ryze drone with the AI-driven YOLOv4-tiny machine learning model, to create an  interactive pet companion.
 
 <img src="doc/images/cat1.png" alt="Cat Image" width="500" height="500"/>
 
