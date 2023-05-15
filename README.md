@@ -1,6 +1,7 @@
 # CatTello
 
-!(cat1.png)
+<img src="images/cat1.png" alt="Cat Image" width="500" height"500"/>
+                                                              
 Meet Cattello - the cat-chasing drone that's guaranteed to keep both you and your feline friends entertained. This project marries Tello drones and YOLOv4 technology to create an  interactive pet companion.
 
 (PSA, this is my first python project, so the code is very basic...)
@@ -24,3 +25,5 @@ Acknowledge the sources that helped you in your project, including tutorials, vi
 
 # License
 Mention the license your project is under.
+
+<img src="images/cat2.png" alt="Cat Image" width="500" height"500"/>
