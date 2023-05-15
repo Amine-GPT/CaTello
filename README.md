@@ -30,9 +30,9 @@ Here's how to use catello:
 ## Manual Control
 Override the automatic controls with these manual controls:
 
-- Use `WASD` for forward, left, backward, and right respectively.
-- Use `R,F` to go up and down.
-- Use `Q,E` for rotation counterclockwise and clockwise.
+- Use `wasd` for forward, left, backward, and right respectively.
+- Use `r,f` to go up and down.
+- Use `q,e` for rotation counterclockwise and clockwise.
 - Adjust `cooldown_time = 3` in `catello.py` to change the time it takes for the drone to switch from manual to automatic mode.
 
 ## Configurations
