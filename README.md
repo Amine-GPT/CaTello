@@ -57,7 +57,3 @@ We welcome contributions! If you're interested in improving Catello, please subm
 
 ## Credits
 WIP
-
-<div align="center">
-    <img src="doc/images/cat2.png" alt="Cat Image" width="500" height="500"/>
-    </div>
