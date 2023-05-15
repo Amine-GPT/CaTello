@@ -56,10 +56,7 @@ Want to track something else? Change `class_id == 15` in `catello.py` to any of 
 We welcome contributions! If you're interested in improving Catello, please submit a pull request. For major changes, please open an issue first to discuss your ideas.
 
 ## Credits
-This project was made possible by [insert sources here, including tutorials, videos, and OpenAI's GPT-4].
-
-## License
-This project is licensed under the [insert license here].
+WIP
 
 <div align="center">
     <img src="doc/images/cat2.png" alt="Cat Image" width="500" height="500"/>
