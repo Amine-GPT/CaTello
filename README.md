@@ -3,7 +3,7 @@ Meet CaTello - the cat-chasing drone designed to engage your cats.
 This project marries DJI Ryze Tello drone with the AI-driven YOLOv4-tiny machine learning model, to create an  interactive pet companion.
 
 <div align="center">
-    <img src="https://github.com/Amine-GPT/CaTello/assets/131181870/d11a62a1-88b4-4e27-bd99-63070982b156" alt="Cat Image" width="500" height="500"/>
+    <img src="https://github.com/Amine-GPT/CaTello/assets/131181870/a8a54bd8-1669-4e31-8756-0854c1975464" alt="Cat Image" width="500" height="500"/>
 </div>
 
 ## Disclaimer :warning: :warning: :warning: 
@@ -33,7 +33,7 @@ Here's how to use catello:
 4. Press `z` on your keyboard for the drone to take off, `x` to land, and the `spacebar` for an emergency landing or to stop the script.
 5. Once airborne, the drone starts rotating clockwise to find and detect the cat. When detected, the drone will follow the cat, maintaining a safe distance.
 
-https://github.com/Amine-GPT/CaTello/assets/131181870/bf307d00-b4d6-4d45-9bf1-9ca119c0cd03
+https://github.com/Amine-GPT/CaTello/assets/131181870/7bc0202c-99b5-4639-954d-237c443249a8
 
 ## Configurations
 Improve your drone's performance by updating these parameters in `catello.py`:
@@ -43,7 +43,7 @@ Improve your drone's performance by updating these parameters in `catello.py`:
 - PID constants for drone control [proportional, integral, derivative]: `pid = [0.4, 0.4, 0]`
 - Confidence threshold: `confidence > 0.5`
 
- <img src="https://github.com/Amine-GPT/CaTello/assets/131181870/be974f45-6faa-40a2-a8d0-36cc433a4737" alt="Cat Detection" width="250" height="250"/>
+ <img src="https://github.com/Amine-GPT/CaTello/assets/131181870/adfda8b2-8d9f-4bef-9281-58268f3b7e29" alt="Cat Detection" width="250" height="250"/>
 
 ### Drone Velocity
 - Reduced constant yaw velocity when no cat face is detected: `yv = 20`
