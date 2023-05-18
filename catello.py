@@ -169,7 +169,6 @@ def drone_control(cx, cy, img_width, img_height, area, pError, pid, last_known_p
     drone.send_rc_control(lr, fb, ud, yv)  # Send the drone control commands
     return error_x  # Return the error in the x direction
 
-
 # Main loop
 while True:
     # Step 1: Get the drone's video feed
