@@ -9,7 +9,7 @@ This project marries DJI Ryze Tello drone with the AI-driven YOLOv4-tiny machine
 ## Disclaimer :warning: :warning: :warning: 
 Please note, this is my initial endeavor in Python, and as such, the drone's behavior may not always be as predictable as one might expect. This makes exercising caution and maintaining constant control over the drone extremely important for the safety of your pet and the drone.
 
-We strongly recommend you to exercise the utmost caution when operating the drone, and to always keep it within a safe and open environment. Keep your hand on the keyboard, ready to press the 'SPACE' key, which will immediately shut down all processes in case of any unforeseen occurrences.
+We strongly recommend you to exercise the utmost caution when operating the drone, and to always keep it within a safe and open environment. Keep your hand on the keyboard, ready to press the `SPACE` key, which will immediately shut down all processes in case of any unforeseen occurrences.
 
 It's crucial that you familiarize yourself with and follow all the safety instructions provided by Tello Drone.
 
