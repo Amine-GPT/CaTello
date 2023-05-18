@@ -237,11 +237,11 @@ while True:
         drone.send_rc_control(50, 0, 0, 0)
         time.sleep(0.1)
         drone.send_rc_control(0, 0, 0, 0)
-    elif key == ord('q'):
+    elif key == ord('e'):
         drone.send_rc_control(0, 0, 0, 50)
         time.sleep(0.5)
         drone.send_rc_control(0, 0, 0, 0)
-    elif key == ord('e'):
+    elif key == ord('q'):
         drone.send_rc_control(0, 0, 0, -50)
         time.sleep(0.5)
         drone.send_rc_control(0, 0, 0, 0)
